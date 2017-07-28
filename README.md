@@ -13,6 +13,10 @@ so it is going to be including
  - UMC
  - Business
  - Fleming
+ - Fisk
+ - Law
+ - Math
+ - Humanity
 
  My project will have most of the methods that we studyed in class like graphing method and Queue Method or even stack
  however all these methods are help my project to get in shape.I will have user act as a buff student where he/she can walk around our beautful campus with having some building in my graph where I wrote in my text file. So some certain buildings to another building and i'm going to use(dijkestra's) the shortest way to certain building to walk to.
@@ -38,3 +42,7 @@ I Also used Stack for Depth First Traversal and I used Queue for Breadth First S
 I used a struct like vertex which going to incude for example: name of building ,a visited boolen, distance,
 vector <adjV> adj is Vector where you can store all adjacent vertices and
 a previousV which is a pointer where we can use it in Dijkstra algrathim
+
+I dont think I have probelm running my project unless I used Xcode I have to refrence my text file from option sitting other than that I works great.
+
+Hope You Guys Enjoy my project...
